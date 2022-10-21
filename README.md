@@ -5,7 +5,7 @@
 <p align="center"><a href="https://github.com/botolmehedi/B2K4"><img title="B2K4" src="https://i.ibb.co/ZHPzyQd/20211216-181120.jpg"></a>
 
 <p align="center">
-<a href="https://github.com/botolmehedi"><img title="Author" src="https://img.shields.io/badge/By-Botol--Baba-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/botolmehedi"><img title="Author" src="https://img.shields.io/badge/By-Mohammad--Waqas-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <h1 align="center">THE B2K4</h1>

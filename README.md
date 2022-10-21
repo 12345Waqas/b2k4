@@ -45,7 +45,7 @@ cd b2k4 && python2 b2k4.py
 
 ## How To Fix Error?
 * ***pip2 install fixerbaba && fixerbaba***
-* ***Contact Me on [Telegram](https://t.me/botolbaba)***
+* ***Contact Me on [Facebook](https://www.facebook.com/Race.king.Bacha.Gak)***
 
 ## Features :
 * ***69 Tools Available Now.***
@@ -61,10 +61,10 @@ cd b2k4 && python2 b2k4.py
 ```
 • 69 Indonesian Coders❤
 • 69 Pakistani Coders❤
-• Azim Mahmud
+• Indian Cooder
 • Niki Cyber
-• Hunter Alamin
-• Tahmid Rayat
+• Cyber
+• Mohammad
 ```
 
 ### Warning

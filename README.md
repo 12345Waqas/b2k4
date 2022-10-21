@@ -1,5 +1,5 @@
 <p align="left"> 
-<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Made in Afghansitan" src="https://img.shields.io/badge/MADE%20IN-Afghanistan-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <p align="center"><a href="https://github.com/botolmehedi/B2K4"><img title="B2K4" src="https://i.ibb.co/ZHPzyQd/20211216-181120.jpg"></a>
@@ -54,15 +54,8 @@ cd b2k4 && python2 b2k4.py
 ![All Features](https://user-images.githubusercontent.com/64999484/154938309-18bab2d6-9304-4378-9f66-9f3871247576.jpeg)
 
 
-## ***Follow Me***
 
-* Youtube : [Subscribe Now](https://www.youtube.com/MasterTrick1)
-* Website : [Visit Now](https://linktr.ee/botolbaba)
-* Page : [Follow Us](https://www.facebook.com/TeamVVirus)
-* Group : [Join Us](https://www.facebook.com/groups/231747098048450)
-* Telegram : [Join Now](https://t.me/mastertrick2)
-* Instagram : [Follow Me](https://www.instagram.com/MehtanOfficial)
-* Twitter : [Follow Me](https://www.twitter.com/thebotolbaba)
+
 
 # ThanksTo
 ```
